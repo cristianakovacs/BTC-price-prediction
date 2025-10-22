@@ -45,12 +45,12 @@ pip install -r requirements.txt
 
 BTC-price-prediction/
 │
-├── btc_prediction.ipynb      # Notebook principal
+├── Bitcoin_Prediction_Final_Presentation.ipynb      # Notebook principal
 ├── data/
 │   ├── raw/                  # Date brute (CSV)
 │   ├── processed/            # Date prelucrate / feature engineering
 │   ├── splits/               # Train / test sets
 │   └── predictions/          # Rezultatele modelelor
-└── prezentare_bitcoin.pdf    # Prezentarea proiectului
+└── Bitcoin_Prediction_Final_Presentation.pdf    # Prezentarea proiectului
 
 
