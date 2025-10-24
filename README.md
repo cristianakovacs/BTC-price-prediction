@@ -110,7 +110,7 @@ Pași pentru a instala și rula proiectul:
 
 ## 📜 Licență
 
-Acest proiect este licențiat sub licența MIT - vezi fișierul LICENSE
+Acest proiect este licențiat sub licența MIT - vezi fișierul Vezi fișierul [LICENSE](LICENSE) pentru detalii.
  pentru detalii.
 
 
